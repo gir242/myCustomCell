@@ -1,0 +1,337 @@
+TmyCustomCell
+v7
+r0
+t371386047.279776
+cCheck dependencies
+cProcessInfoPlistFile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/Info.plist myCustomCell-Info.plist
+cCompileXIB /Users/abdulsattar/myCustomCell/MainWindow.xib
+cCompileXIB /Users/abdulsattar/myCustomCell/RootViewController.xib
+cCompileXIB /Users/abdulsattar/myCustomCell/Classes/cell.xib
+cCpResource build/Debug-iphonesimulator/myCustomCell.app/vegetable_curry.jpg vegetable_curry.jpg
+cProcessPCH /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch.gch myCustomCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/main.o /Users/abdulsattar/myCustomCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCellAppDelegate.o /Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/RootViewController.o /Users/abdulsattar/myCustomCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/cell.o /Users/abdulsattar/myCustomCell/Classes/cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell normal i386
+cGenerateDSYMFile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app.dSYM /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell
+cTouch /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/abdulsattar/myCustomCell/Classes/RootViewController.h
+c000000005072A0CE000000000000010D
+t1349689550
+s269
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/myCustomCell/Classes/RootViewController.m
+c000000005072AF040000000000001558
+t1349693188
+s5464
+i"RootViewController.h"
+i"cell.h"
+
+N/Users/abdulsattar/myCustomCell/Classes/cell.h
+c000000005072ADD7000000000000020F
+t1349692887
+s527
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/myCustomCell/Classes/cell.m
+c000000005072A69B00000000000005A7
+t1349691035
+s1447
+i"cell.h"
+
+N/Users/abdulsattar/myCustomCell/Classes/cell.xib
+c000000005072AF3900000000000068B9
+t1349693241
+s26809
+
+N/Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.h
+c000000005072A07000000000000001E2
+t1349689456
+s482
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m
+c000000005072A0700000000000000ABB
+t1349689456
+s2747
+i"myCustomCellAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/abdulsattar/myCustomCell/MainWindow.xib
+c000000005072A0700000000000006008
+t1349689456
+s24584
+
+N/Users/abdulsattar/myCustomCell/RootViewController.xib
+c000000005072A1500000000000004AF6
+t1349689680
+s19190
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app
+t1349693247
+s306
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app.dSYM
+t1349693191
+s102
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/Info.plist
+t1349692171
+s611
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/MainWindow.nib
+t1349692172
+s1514
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/PkgInfo
+t1349692171
+s8
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/RootViewController.nib
+t1349692172
+s1136
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/cell.nib
+t1349693247
+s2003
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell
+t1349693191
+s24468
+
+N/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/vegetable_curry.jpg
+t1349693120
+s14697
+
+N/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/RootViewController.o
+t1349693191
+s46416
+
+N/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/cell.o
+t1349693121
+s41416
+
+N/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/main.o
+t1349692173
+s6288
+
+N/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCell.LinkFileList
+c000000005072AB0B0000000000000215
+t1349692171
+s533
+
+N/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCellAppDelegate.o
+t1349692173
+s52856
+
+N/Users/abdulsattar/myCustomCell/main.m
+c000000005072A070000000000000016E
+t1349689456
+s366
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/myCustomCell/myCustomCell_Prefix.pch
+c000000005072A070000000000000014A
+t1349689456
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/abdulsattar/myCustomCell/vegetable_curry.jpg
+c000000004F9B6E630000000000003969
+t1335586403
+s14697
+
+N/var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch.gch
+t1349692173
+s15453392
+
+NmyCustomCell-Info.plist
+c000000005072A070000000000000038D
+t1349689456
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371386046#371386046#0(0"0(0#1#0"8617823328#0"0#
+
+CCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/RootViewController.o /Users/abdulsattar/myCustomCell/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371385991.518693
+e371385991.688000
+r1
+xCompileC
+xbuild/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/RootViewController.o
+x/Users/abdulsattar/myCustomCell/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/abdulsattar/myCustomCell/Classes/RootViewController.m371385991#371385991#0(0"0(0#0#60"/Users/abdulsattar/myCustomCell/Classes/RootViewController.m8620874656#1973"    cd /Users/abdulsattar/myCustomCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-generated-files.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-own-target-headers.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-all-target-headers.hmap -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-project-headers.hmap -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -I/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/include -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources/i386 -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch -c /Users/abdulsattar/myCustomCell/Classes/RootViewController.m -o /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/cell.o /Users/abdulsattar/myCustomCell/Classes/cell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371385921.242909
+e371385921.358934
+r1
+xCompileC
+xbuild/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/cell.o
+x/Users/abdulsattar/myCustomCell/Classes/cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/abdulsattar/myCustomCell/Classes/cell.m: In function '-[cell didReceiveMemoryWarning]':
+o/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: 'UITableViewCell' may not respond to '-didReceiveMemoryWarning'
+o/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: (Messages without a matching method signature
+o/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: will be assumed to return 'id' and accept
+o/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: '...' as arguments.)
+o/Users/abdulsattar/myCustomCell/Classes/cell.m: In function '-[cell viewDidUnload]':
+o/Users/abdulsattar/myCustomCell/Classes/cell.m:48: warning: 'UITableViewCell' may not respond to '-viewDidUnload'
+lSLF07#2@54"Compile /Users/abdulsattar/myCustomCell/Classes/cell.m371385921#371385921#0(707"/Users/abdulsattar/myCustomCell/Classes/cell.m: In function '-[cell didReceiveMemoryWarning]':/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: 'UITableViewCell' may not respond to '-didReceiveMemoryWarning'/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: (Messages without a matching method signature/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: will be assumed to return 'id' and accept/Users/abdulsattar/myCustomCell/Classes/cell.m:42: warning: '...' as arguments.)/Users/abdulsattar/myCustomCell/Classes/cell.m: In function '-[cell viewDidUnload]':/Users/abdulsattar/myCustomCell/Classes/cell.m:48: warning: 'UITableViewCell' may not respond to '-viewDidUnload'3(22@63"'UITableViewCell' may not respond to '-didReceiveMemoryWarning'371385921#95#124#0(6@46"/Users/abdulsattar/myCustomCell/Classes/cell.m371383835#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)371385921#219#106#0(6@46"/Users/abdulsattar/myCustomCell/Classes/cell.m371383835#42#0#42#0#0"0(22@53"'UITableViewCell' may not respond to '-viewDidUnload'371385921#593#114#0(6@46"/Users/abdulsattar/myCustomCell/Classes/cell.m371383835#48#0#48#0#26"'*' may not respond to '*'0(0#0#46"/Users/abdulsattar/myCustomCell/Classes/cell.m8626083360#1945"    cd /Users/abdulsattar/myCustomCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-generated-files.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-own-target-headers.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-all-target-headers.hmap -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-project-headers.hmap -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -I/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/include -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources/i386 -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch -c /Users/abdulsattar/myCustomCell/Classes/cell.m -o /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/cell.o0#
+
+CCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/main.o /Users/abdulsattar/myCustomCell/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371384973.749429
+e371384973.820162
+r1
+xCompileC
+xbuild/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/main.o
+x/Users/abdulsattar/myCustomCell/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/abdulsattar/myCustomCell/main.m371384973#371384973#0(0"0(0#0#38"/Users/abdulsattar/myCustomCell/main.m8626304512#1937"    cd /Users/abdulsattar/myCustomCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-generated-files.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-own-target-headers.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-all-target-headers.hmap -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-project-headers.hmap -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -I/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/include -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources/i386 -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch -c /Users/abdulsattar/myCustomCell/main.m -o /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCellAppDelegate.o /Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s371384973.750359
+e371384973.888038
+r1
+xCompileC
+xbuild/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCellAppDelegate.o
+x/Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m371384973#371384973#0(0"0(0#0#65"/Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m8626003072#1983"    cd /Users/abdulsattar/myCustomCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-generated-files.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-own-target-headers.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-all-target-headers.hmap -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-project-headers.hmap -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -I/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/include -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources/i386 -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources -include /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch -c /Users/abdulsattar/myCustomCell/Classes/myCustomCellAppDelegate.m -o /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCellAppDelegate.o0#
+
+CCompileXIB /Users/abdulsattar/myCustomCell/Classes/cell.xib
+s371386046.822353
+e371386047.276152
+r1
+xCompileXIB
+x/Users/abdulsattar/myCustomCell/Classes/cell.xib
+lSLF07#2@27"CompileXIB Classes/cell.xib371386046#371386047#0(0"0(0#0#48"/Users/abdulsattar/myCustomCell/Classes/cell.xib8622318720#550"    cd /Users/abdulsattar/myCustomCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/cell.nib /Users/abdulsattar/myCustomCell/Classes/cell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/abdulsattar/myCustomCell/MainWindow.xib
+s371384971.875389
+e371384972.620159
+r1
+xCompileXIB
+x/Users/abdulsattar/myCustomCell/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib371384971#371384972#0(0"0(0#0#46"/Users/abdulsattar/myCustomCell/MainWindow.xib30399731280838764#554"    cd /Users/abdulsattar/myCustomCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/MainWindow.nib /Users/abdulsattar/myCustomCell/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/abdulsattar/myCustomCell/RootViewController.xib
+s371384971.876456
+e371384972.376292
+r1
+xCompileXIB
+x/Users/abdulsattar/myCustomCell/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib371384971#371384972#0(0"0(0#0#54"/Users/abdulsattar/myCustomCell/RootViewController.xib8620542208#570"    cd /Users/abdulsattar/myCustomCell    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/RootViewController.nib /Users/abdulsattar/myCustomCell/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/myCustomCell.app/vegetable_curry.jpg vegetable_curry.jpg
+s371385920.631132
+e371385920.666838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myCustomCell.app/vegetable_curry.jpg
+xvegetable_curry.jpg
+lSLF07#2@24"Copy vegetable_curry.jpg371385920#371385920#0(0"0(0#0#51"/Users/abdulsattar/myCustomCell/vegetable_curry.jpg8625633632#461"    cd /Users/abdulsattar/myCustomCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/abdulsattar/myCustomCell/vegetable_curry.jpg /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app0#
+
+CGenerateDSYMFile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app.dSYM /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell
+s371385991.730773
+e371385991.755129
+r1
+xGenerateDSYMFile
+x/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app.dSYM
+x/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/myCustomCell.app.dSYM build/Debug-iphonesimulator/myCustomCell.app/myCustomCell371385991#371385991#0(0"0(0#0#89"/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell8626434112#377"    cd /Users/abdulsattar/myCustomCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell -o /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app.dSYM0#
+
+CLd /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell normal i386
+s371385991.688083
+e371385991.730679
+r1
+xLd
+x/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell
+xnormal
+xi386
+lSLF07#2@94"Link /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell371385991#371385991#0(0"0(0#0#0"8626862816#890"    cd /Users/abdulsattar/myCustomCell    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -filelist /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/Objects-normal/i386/myCustomCell.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/myCustomCell0#
+
+CProcessInfoPlistFile /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/Info.plist myCustomCell-Info.plist
+s371384971.827767
+e371384971.875309
+r1
+xProcessInfoPlistFile
+x/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/Info.plist
+xmyCustomCell-Info.plist
+lSLF07#2@31"Process myCustomCell-Info.plist371384971#371384971#0(0"0(0#0#55"/Users/abdulsattar/myCustomCell/myCustomCell-Info.plist30399800003068008#473"    cd /Users/abdulsattar/myCustomCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myCustomCell-Info.plist -genpkginfo /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app/Info.plist0#
+
+CProcessPCH /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch.gch myCustomCell_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s371384972.848697
+e371384973.749294
+r1
+xProcessPCH
+x/var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch.gch
+xmyCustomCell_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile myCustomCell_Prefix.pch371384972#371384973#0(0"0(0#0#55"/Users/abdulsattar/myCustomCell/myCustomCell_Prefix.pch8626471264#1831"    cd /Users/abdulsattar/myCustomCell    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-generated-files.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-own-target-headers.hmap -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-all-target-headers.hmap -iquote /Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/myCustomCell-project-headers.hmap -F/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator -I/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/include -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources/i386 -I/Users/abdulsattar/myCustomCell/build/myCustomCell.build/Debug-iphonesimulator/myCustomCell.build/DerivedSources -c /Users/abdulsattar/myCustomCell/myCustomCell_Prefix.pch -o /var/folders/W9/W9fnnpjHEWSBMyEc6qpkYE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myCustomCell_Prefix-cusaggjpvenavsejbqyqseqbfhjh/myCustomCell_Prefix.pch.gch0#
+
+CTouch /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app
+s371386047.276854
+e371386047.279724
+r1
+xTouch
+x/Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app
+lSLF07#2@82"Touch /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app371386047#371386047#0(0"0(0#0#0"8617818112#269"    cd /Users/abdulsattar/myCustomCell    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/abdulsattar/myCustomCell/build/Debug-iphonesimulator/myCustomCell.app0#
+
