@@ -36,10 +36,10 @@
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4672, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4723, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4773, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5469}\";\n    s = 0;\n}";
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4680, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4731, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4781, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5477}\";\n    s = 0;\n}";
 			sepNavIntBoundsRect = "{{0, 0}, {775, 2977}}";
-			sepNavSelRange = "{80, 0}";
-			sepNavVisRange = "{0, 687}";
+			sepNavSelRange = "{88, 0}";
+			sepNavVisRange = "{0, 695}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -81,6 +81,7 @@
 		};
 		perUserProjectItems = {
 			7DD1FC941626B00E00F46928 /* PBXTextBookmark */ = 7DD1FC941626B00E00F46928 /* PBXTextBookmark */;
+			7DD1FC981626B06600F46928 /* PBXTextBookmark */ = 7DD1FC981626B06600F46928 /* PBXTextBookmark */;
 			7DD46B7F1622DF0B0023070B = 7DD46B7F1622DF0B0023070B /* PBXTextBookmark */;
 			7DD46B801622DF0B0023070B = 7DD46B801622DF0B0023070B /* PBXTextBookmark */;
 			7DD46BC91622E5710023070B = 7DD46BC91622E5710023070B /* PBXTextBookmark */;
@@ -107,9 +108,19 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 5";
 		rLen = 0;
-		rLoc = 80;
+		rLoc = 88;
 		rType = 0;
 		vrLen = 687;
+		vrLoc = 0;
+	};
+	7DD1FC981626B06600F46928 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 5";
+		rLen = 0;
+		rLoc = 88;
+		rType = 0;
+		vrLen = 695;
 		vrLoc = 0;
 	};
 	7DD46B651622D80F0023070B /* myCustomCell */ = {
@@ -244,7 +255,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 115";
 		rLen = 4;
-		rLoc = 2806;
+		rLoc = 2814;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 1666;
@@ -254,7 +265,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 133";
 		rLen = 0;
-		rLoc = 3167;
+		rLoc = 3175;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 4656;
